@@ -1,0 +1,1187 @@
+<li class="product_wrapper">
+           
+            <div class="result_left">
+                <div class="checkbox">
+                   <form action="#" method="get" class="compareCheckbox" name="Compare Checkbox">
+                     <label for="productIDcheck0603374" class="hide-text">Compare Item 15-dw0033nr 15.6&quot; Laptop Computer - Silver&gt;</label><input title="Compare SKU# 897991" type="checkbox" class="checkbox productID" id="productIDcheck0603374" name="CompareSKu897991" value="897991:0603374" onclick="set_compare_items(this.form, &apos;897991:0603374&apos;,&apos;15-dw0033nr 15.6 Laptop Computer - Silver&apos;)" onkeypress="set_compare_items(this.form, &apos;897991:0603374&apos;,&apos;15-dw0033nr 15.6 Laptop Computer - Silver&apos;)"><div class="inline-compare-text" id="text_productIDcheck0603374"></div>
+<div class="inline-compare-button" id="button_productIDcheck0603374"><a href="#" class="icons compare">Compare</a></div>                               
+                   </form>
+			    </div>
+            
+            
+
+                <a id="hypProduct_0" class="image" data-name="15-dw0033nr 15.6&amp;quot; Laptop Computer - Silver" data-id="603374" data-price="499.99" data-brand="HP" data-category="Laptops/Notebooks" data-position="1" href="/product/603374/15-dw0033nr-156-laptop-computer---silver?ob=1"><img id="imgProduct_0" class="SearchResultProductImage" onerror="ImgError(this);" src="https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0603374_897991.jpg" alt="HP 15-dw0033nr 15.6&amp;quot; Laptop Computer - Silver"></a>
+
+                <div class="quick"><div id="button_quickview603374"><a class="quickView" href="/quickView/603374/15-dw0033nr-156-laptop-computer---silver?ob=1" rel="nofollow" target="_self"><img src="https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/btn_QuickView.jpg" alt="Open Quick View for 15-dw0033nr 15.6&quot; Laptop Computer - Silver"></a></div></div>
+           </div>
+
+
+            <div class="result_right">
+			    <div class="details">
+
+
+                    <div class="detail_wrapper">
+                        <div class="highlight clear"></div>
+                        <div class="pDescription compressedNormal3">
+                       
+                            <div class="normal">
+			                    <h2>
+                                    <a id="hypProductH2_0" data-name="15-dw0033nr 15.6&amp;quot; Laptop Computer - Silver" data-id="603374" data-price="499.99" data-brand="HP" data-category="Laptops/Notebooks" data-position="1" class="ProductLink_603374" href="/product/603374/15-dw0033nr-156-laptop-computer---silver?ob=1">HP 15-dw0033nr 15.6&quot; Laptop Computer - Silver;  Intel Core i5-8265U Processor 1.6GHz;  8GB DDR4-2400 RAM;  256GB Solid State Drive;  Intel UHD Graphics 620</a>
+                                </h2>
+                            </div>
+                            
+                                
+                            
+
+                        </div>
+                        <div class="ratingstars">
+<div><span>0 Reviews</span></div></div>
+                        <p class="sku">SKU: 897991</p>
+
+                        
+						 
+                                <ul class="features compressedFeatures3">
+                                <li class="spec_1 primary"> Intel Core i5-8265U Processor 1.6GHz</li><li class="spec_2 primary"> 8GB DDR4-2400 RAM</li><li class="spec_3 primary"> 256GB Solid State Drive</li><li class="spec_4 extra"> Intel UHD Graphics 620</li><li class="spec_5 extra"> Microsoft Windows 10 Home</li><li class="spec_6 extra"> Multi-Format SD Card Reader</li><li class="spec_7 extra"> 10/100/1000 Network</li><li class="spec_8 extra"> 1x1 802.11ac Wireless+Bluetooth 4.2 Combo</li><li class="spec_9 extra"> 15.6&quot; HD SVA BrightView Micro-Edge WLED-backlit Display</li>
+                            </ul>
+                            <ul class="featuresTrunc">
+                                <li class="spec_1 primary"> Intel Core i5-8265U Processor 1.6GHz</li><li class="spec_2 primary"> 8GB DDR4-2400 RAM</li><li class="spec_3 primary"> 256GB Solid State Drive</li>
+                            </ul>
+                        
+                    
+                        <div class="stock">
+                            <strong>1 <span>open box</span></strong>
+                            <p class="availability"></p>
+				            <p class="availabilityTrunc"></p>
+                        </div>
+                    </div>
+
+
+                    <div class="price_wrapper">
+				        <div class="price">
+                            <span itemprop="price"><span class="mini">New </span><sup class="upperOBNew">$</sup><span class="ObStrike">499.99</span></span>
+
+                            <div class="price-label compareTo">Open Box From <strong><span class="upperOB">$</span>424.96</strong></div>
+                        </div>
+                    			
+                        <div class="rebate-price"><span class="price"></span></div>
+                                
+				        <div class="clearance">
+                            
+                        </div>
+                
+				        <div class="mapped">
+                            
+                        </div>
+         
+                        
+                    
+                        <div class="nextButton clickable"><a href="/product/603374/15-dw0033nr-156-laptop-computer---silver?ob=1&amp;rf=Search+Results" target="_top">SELECT OPEN BOX</a></div>
+                                        
+                        <div class="instore">
+                            <p class="limit">In-Store Only</p>
+                        </div>
+                    </div>
+
+
+
+			    </div>
+                           
+            </div>
+        
+        </li><li class="product_wrapper">
+           
+            <div class="result_left">
+                <div class="checkbox">
+                   <form action="#" method="get" class="compareCheckbox" name="Compare Checkbox">
+                     <label for="productIDcheck0603582" class="hide-text">Compare Item GV62 8RE-061 15.6&quot; Gaming Laptop Computer - Black&gt;</label><input title="Compare SKU# 898312" type="checkbox" class="checkbox productID" id="productIDcheck0603582" name="CompareSKu898312" value="898312:0603582" onclick="set_compare_items(this.form, &apos;898312:0603582&apos;,&apos;GV62 8RE-061 15.6 Gaming Laptop Computer - Black&apos;)" onkeypress="set_compare_items(this.form, &apos;898312:0603582&apos;,&apos;GV62 8RE-061 15.6 Gaming Laptop Computer - Black&apos;)"><div class="inline-compare-text" id="text_productIDcheck0603582"></div>
+<div class="inline-compare-button" id="button_productIDcheck0603582"><a href="#" class="icons compare">Compare</a></div>                               
+                   </form>
+			    </div>
+            
+            
+
+                <a id="hypProduct_1" class="image" data-name="GV62 8RE-061 15.6&amp;quot; Gaming Laptop Computer - Black" data-id="603582" data-price="699.99" data-brand="MSI" data-category="Laptops/Notebooks" data-position="2" href="/product/603582/gv62-8re-061-156-gaming-laptop-computer---black?ob=1"><img id="imgProduct_1" class="SearchResultProductImage" onerror="ImgError(this);" src="https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0603582_898312.jpg" alt="MSI GV62 8RE-061 15.6&amp;quot; Gaming Laptop Computer - Black"></a>
+
+                <div class="quick"><div id="button_quickview603582"><a class="quickView" href="/quickView/603582/gv62-8re-061-156-gaming-laptop-computer---black?ob=1" rel="nofollow" target="_self"><img src="https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/btn_QuickView.jpg" alt="Open Quick View for GV62 8RE-061 15.6&quot; Gaming Laptop Computer - Black"></a></div></div>
+           </div>
+
+
+            <div class="result_right">
+			    <div class="details">
+
+
+                    <div class="detail_wrapper">
+                        <div class="highlight clear">Buy eligible GeForce GTX video cards or systems, get the Fortnite Bundle FREE!</div>
+                        <div class="pDescription compressedNormal3">
+                       
+                            <div class="normal">
+			                    <h2>
+                                    <a id="hypProductH2_1" data-name="GV62 8RE-061 15.6&amp;quot; Gaming Laptop Computer - Black" data-id="603582" data-price="699.99" data-brand="MSI" data-category="Laptops/Notebooks" data-position="2" class="ProductLink_603582" href="/product/603582/gv62-8re-061-156-gaming-laptop-computer---black?ob=1">MSI GV62 8RE-061 15.6&quot; Gaming Laptop Computer - Black;  Intel Core i5-8300H Processor 2.3GHz;  NVIDIA GeForce GTX 1060 3GB GDDR5;  8GB DDR4-2666 RAM;  256GB Solid State Drive</a>
+                                </h2>
+                            </div>
+                            
+                                
+                            
+
+                        </div>
+                        <div class="ratingstars">
+<img class="imgReviews" height="15" src="/assets/images/rating/4.gif" alt="4 stars">
+<div>4 / 5 <span> (8 reviews)</span></div>
+</div>
+                        <p class="sku">SKU: 898312</p>
+
+                        
+						 
+                                <ul class="features compressedFeatures3">
+                                <li class="spec_1 primary"> Intel Core i5-8300H Processor 2.3GHz</li><li class="spec_2 primary"> NVIDIA GeForce GTX 1060 3GB GDDR5</li><li class="spec_3 primary"> 8GB DDR4-2666 RAM</li><li class="spec_4 extra"> 256GB Solid State Drive</li><li class="spec_5 extra"> Microsoft Windows 10 Home</li><li class="spec_6 extra"> SD Card Reader</li><li class="spec_7 extra"> 10/100/1000 Network</li><li class="spec_8 extra"> Intel Wireless-AC 9462</li><li class="spec_9 extra"> Bluetooth 5.0</li><li class="spec_10 extra"> 15.6&quot; Full HD eDP IPS Display</li>
+                            </ul>
+                            <ul class="featuresTrunc">
+                                
+                            </ul>
+                        
+                    
+                        <div class="stock">
+                            <strong>1 <span>open box</span></strong>
+                            <p class="availability"></p>
+				            <p class="availabilityTrunc"></p>
+                        </div>
+                    </div>
+
+
+                    <div class="price_wrapper">
+				        <div class="price">
+                            <span itemprop="price"><span class="mini">New </span><sup class="upperOBNew">$</sup><span class="ObStrike">699.99</span></span>
+
+                            <div class="price-label compareTo">Open Box From <strong><span class="upperOB">$</span>629.96</strong></div>
+                        </div>
+                    			
+                        <div class="rebate-price"><span class="price"></span></div>
+                                
+				        <div class="clearance">
+                            
+                        </div>
+                
+				        <div class="mapped">
+                            
+                        </div>
+         
+                        
+                    
+                        <div class="nextButton clickable"><a href="/product/603582/gv62-8re-061-156-gaming-laptop-computer---black?ob=1&amp;rf=Search+Results" target="_top">SELECT OPEN BOX</a></div>
+                                        
+                        <div class="instore">
+                            <p class="limit">In-Store Only</p>
+                        </div>
+                    </div>
+
+
+
+			    </div>
+                           
+            </div>
+        
+        </li><li class="product_wrapper">
+           
+            <div class="result_left">
+                <div class="checkbox">
+                   <form action="#" method="get" class="compareCheckbox" name="Compare Checkbox">
+                     <label for="productIDcheck0603916" class="hide-text">Compare Item Flex 5 15.6&quot; 2-in-1 Laptop Computer Refurbished - Black&gt;</label><input title="Compare SKU# 902569" type="checkbox" class="checkbox productID" id="productIDcheck0603916" name="CompareSKu902569" value="902569:0603916" onclick="set_compare_items(this.form, &apos;902569:0603916&apos;,&apos;Flex 5 15.6 2-in-1 Laptop Computer Refurbished - Black&apos;)" onkeypress="set_compare_items(this.form, &apos;902569:0603916&apos;,&apos;Flex 5 15.6 2-in-1 Laptop Computer Refurbished - Black&apos;)"><div class="inline-compare-text" id="text_productIDcheck0603916"></div>
+<div class="inline-compare-button" id="button_productIDcheck0603916"><a href="#" class="icons compare">Compare</a></div>                               
+                   </form>
+			    </div>
+            
+            
+
+                <a id="hypProduct_2" class="image" data-name="Flex 5 15.6&amp;quot; 2-in-1 Laptop Computer Refurbished - Black" data-id="603916" data-price="699.99" data-brand="Lenovo" data-category="Laptops/Notebooks" data-position="3" href="/product/603916/flex-5-156-2-in-1-laptop-computer-refurbished---black?ob=1"><img id="imgProduct_2" class="SearchResultProductImage" onerror="ImgError(this);" src="https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0603916_902569.jpg" alt="Lenovo Flex 5 15.6&amp;quot; 2-in-1 Laptop Computer Refurbished - Black"></a>
+
+                <div class="quick"><div id="button_quickview603916"><a class="quickView" href="/quickView/603916/flex-5-156-2-in-1-laptop-computer-refurbished---black?ob=1" rel="nofollow" target="_self"><img src="https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/btn_QuickView.jpg" alt="Open Quick View for Flex 5 15.6&quot; 2-in-1 Laptop Computer Refurbished - Black"></a></div></div>
+           </div>
+
+
+            <div class="result_right">
+			    <div class="details">
+
+
+                    <div class="detail_wrapper">
+                        <div class="highlight clear"></div>
+                        <div class="pDescription compressedNormal3">
+                       
+                            <div class="normal">
+			                    <h2>
+                                    <a id="hypProductH2_2" data-name="Flex 5 15.6&amp;quot; 2-in-1 Laptop Computer Refurbished - Black" data-id="603916" data-price="699.99" data-brand="Lenovo" data-category="Laptops/Notebooks" data-position="3" class="ProductLink_603916" href="/product/603916/flex-5-156-2-in-1-laptop-computer-refurbished---black?ob=1">Lenovo Flex 5 15.6&quot; 2-in-1 Laptop Computer Refurbished - Black;  Intel Core i7-8550U Processor 1.8GHz;  NVIDIA GeForce MX130 2GB GDDR5;  16GB RAM;  512GB Solid State Drive</a>
+                                </h2>
+                            </div>
+                            
+                                
+                            
+
+                        </div>
+                        <div class="ratingstars">
+<img class="imgReviews" height="15" src="/assets/images/rating/5.gif" alt="5 stars">
+<div>5 / 5 <span> (1 review)</span></div>
+</div>
+                        <p class="sku">SKU: 902569</p>
+
+                        
+						 
+                                <ul class="features compressedFeatures3">
+                                <li class="spec_1 primary"> Intel Core i7-8550U Processor 1.8GHz</li><li class="spec_2 primary"> NVIDIA GeForce MX130 2GB GDDR5</li><li class="spec_3 primary"> 16GB RAM</li><li class="spec_4 extra"> 512GB Solid State Drive</li><li class="spec_5 extra"> Microsoft Windows 10 Home</li><li class="spec_6 extra"> 4-in-1 Card Reader</li><li class="spec_7 extra"> 802.11ac Wireless</li><li class="spec_8 extra"> Bluetooth 4.1</li><li class="spec_9 extra"> 15.6&quot; Full HD IPS LED-backlit Anti-Glare Touch Display</li>
+                            </ul>
+                            <ul class="featuresTrunc">
+                                <li class="spec_1 primary"> Intel Core i7-8550U Processor 1.8GHz</li><li class="spec_2 primary"> NVIDIA GeForce MX130 2GB GDDR5</li><li class="spec_3 primary"> 16GB RAM</li>
+                            </ul>
+                        
+                    
+                        <div class="stock">
+                            <strong>1 <span>open box</span></strong>
+                            <p class="availability"></p>
+				            <p class="availabilityTrunc"></p>
+                        </div>
+                    </div>
+
+
+                    <div class="price_wrapper">
+				        <div class="price">
+                            <span itemprop="price"><span class="mini">New </span><sup class="upperOBNew">$</sup><span class="ObStrike">699.99</span></span>
+
+                            <div class="price-label compareTo">Open Box From <strong><span class="upperOB">$</span>693.96</strong></div>
+                        </div>
+                    			
+                        <div class="rebate-price"><span class="price"></span></div>
+                                
+				        <div class="clearance">
+                            
+                        </div>
+                
+				        <div class="mapped">
+                            
+                        </div>
+         
+                        
+                    
+                        <div class="nextButton clickable"><a href="/product/603916/flex-5-156-2-in-1-laptop-computer-refurbished---black?ob=1&amp;rf=Search+Results" target="_top">SELECT OPEN BOX</a></div>
+                                        
+                        <div class="instore">
+                            <p class="limit">In-Store Only</p>
+                        </div>
+                    </div>
+
+
+
+			    </div>
+                           
+            </div>
+        
+        </li><li class="product_wrapper">
+           
+            <div class="result_left">
+                <div class="checkbox">
+                   <form action="#" method="get" class="compareCheckbox" name="Compare Checkbox">
+                     <label for="productIDcheck0487765" class="hide-text">Compare Item Inspiron 13 5379 13.3&quot; 2-in-1 Laptop Computer - Gray&gt;</label><input title="Compare SKU# 440669" type="checkbox" class="checkbox productID" id="productIDcheck0487765" name="CompareSKu440669" value="440669:0487765" onclick="set_compare_items(this.form, &apos;440669:0487765&apos;,&apos;Inspiron 13 5379 13.3 2-in-1 Laptop Computer - Gray&apos;)" onkeypress="set_compare_items(this.form, &apos;440669:0487765&apos;,&apos;Inspiron 13 5379 13.3 2-in-1 Laptop Computer - Gray&apos;)"><div class="inline-compare-text" id="text_productIDcheck0487765"></div>
+<div class="inline-compare-button" id="button_productIDcheck0487765"><a href="#" class="icons compare">Compare</a></div>                               
+                   </form>
+			    </div>
+            
+            
+
+                <a id="hypProduct_3" class="image" data-name="Inspiron 13 5379 13.3&amp;quot; 2-in-1 Laptop Computer - Gray" data-id="487765" data-price="649.99" data-brand="Dell" data-category="Laptops/Notebooks" data-position="4" href="/product/487765/inspiron-13-5379-133-2-in-1-laptop-computer---gray?ob=1"><img id="imgProduct_3" class="SearchResultProductImage" onerror="ImgError(this);" src="https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0487765_440669.jpg" alt="Dell Inspiron 13 5379 13.3&amp;quot; 2-in-1 Laptop Computer - Gray"></a>
+
+                <div class="quick"><div id="button_quickview487765"><a class="quickView" href="/quickView/487765/inspiron-13-5379-133-2-in-1-laptop-computer---gray?ob=1" rel="nofollow" target="_self"><img src="https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/btn_QuickView.jpg" alt="Open Quick View for Inspiron 13 5379 13.3&quot; 2-in-1 Laptop Computer - Gray"></a></div></div>
+           </div>
+
+
+            <div class="result_right">
+			    <div class="details">
+
+
+                    <div class="detail_wrapper">
+                        <div class="highlight clear"></div>
+                        <div class="pDescription compressedNormal3">
+                       
+                            <div class="normal">
+			                    <h2>
+                                    <a id="hypProductH2_3" data-name="Inspiron 13 5379 13.3&amp;quot; 2-in-1 Laptop Computer - Gray" data-id="487765" data-price="649.99" data-brand="Dell" data-category="Laptops/Notebooks" data-position="4" class="ProductLink_487765" href="/product/487765/inspiron-13-5379-133-2-in-1-laptop-computer---gray?ob=1">Dell Inspiron 13 5379 13.3&quot; 2-in-1 Laptop Computer - Gray;  Intel Core i7-8550U Processor 1.80GHz;  Microsoft Windows 10 Home;  8GB DDR4-2400 RAM;  256GB Solid State Drive</a>
+                                </h2>
+                            </div>
+                            
+                                
+                            
+
+                        </div>
+                        <div class="ratingstars">
+<img class="imgReviews" height="15" src="/assets/images/rating/5.gif" alt="5 stars">
+<div>5 / 5 <span> (25 reviews)</span></div>
+</div>
+                        <p class="sku">SKU: 440669</p>
+
+                        
+						 
+                                <ul class="features compressedFeatures3">
+                                <li class="spec_1 primary"> Intel Core i7-8550U Processor 1.80GHz</li><li class="spec_2 primary"> Microsoft Windows 10 Home</li><li class="spec_3 primary"> 8GB DDR4-2400 RAM</li><li class="spec_4 extra"> 256GB Solid State Drive</li><li class="spec_5 extra"> Intel UHD Graphics 620</li><li class="spec_6 extra"> 3-in-1 Card Reader</li><li class="spec_7 extra"> Dual Band 802.11ac Wireless</li><li class="spec_8 extra"> Bluetooth 4.1</li><li class="spec_9 extra"> 13.3&quot; Full HD IPS Truelife LED-backlit Touch Display with Wide Viewing Angles</li>
+                            </ul>
+                            <ul class="featuresTrunc">
+                                <li class="spec_1 primary"> Intel Core i7-8550U Processor 1.80GHz</li><li class="spec_2 primary"> Microsoft Windows 10 Home</li><li class="spec_3 primary"> 8GB DDR4-2400 RAM</li>
+                            </ul>
+                        
+                    
+                        <div class="stock">
+                            <strong>1 <span>open box</span></strong>
+                            <p class="availability"></p>
+				            <p class="availabilityTrunc"></p>
+                        </div>
+                    </div>
+
+
+                    <div class="price_wrapper">
+				        <div class="price">
+                            <span itemprop="price"><span class="mini">New </span><sup class="upperOBNew">$</sup><span class="ObStrike">649.99</span></span>
+
+                            <div class="price-label compareTo">Open Box From <strong><span class="upperOB">$</span>519.96</strong></div>
+                        </div>
+                    			
+                        <div class="rebate-price"><span class="price"></span></div>
+                                
+				        <div class="clearance">
+                            
+                        </div>
+                
+				        <div class="mapped">
+                            
+                        </div>
+         
+                        
+                    
+                        <div class="nextButton clickable"><a href="/product/487765/inspiron-13-5379-133-2-in-1-laptop-computer---gray?ob=1&amp;rf=Search+Results" target="_top">SELECT OPEN BOX</a></div>
+                                        
+                        <div class="instore">
+                            <p class="limit">In-Store Only</p>
+                        </div>
+                    </div>
+
+
+
+			    </div>
+                           
+            </div>
+        
+        </li><li class="product_wrapper">
+           
+            <div class="result_left">
+                <div class="checkbox">
+                   <form action="#" method="get" class="compareCheckbox" name="Compare Checkbox">
+                     <label for="productIDcheck0487766" class="hide-text">Compare Item Inspiron 15 5579 15.6&quot; 2-in-1 Laptop Computer - Gray&gt;</label><input title="Compare SKU# 440685" type="checkbox" class="checkbox productID" id="productIDcheck0487766" name="CompareSKu440685" value="440685:0487766" onclick="set_compare_items(this.form, &apos;440685:0487766&apos;,&apos;Inspiron 15 5579 15.6 2-in-1 Laptop Computer - Gray&apos;)" onkeypress="set_compare_items(this.form, &apos;440685:0487766&apos;,&apos;Inspiron 15 5579 15.6 2-in-1 Laptop Computer - Gray&apos;)"><div class="inline-compare-text" id="text_productIDcheck0487766"></div>
+<div class="inline-compare-button" id="button_productIDcheck0487766"><a href="#" class="icons compare">Compare</a></div>                               
+                   </form>
+			    </div>
+            
+            
+
+                <a id="hypProduct_4" class="image" data-name="Inspiron 15 5579 15.6&amp;quot; 2-in-1 Laptop Computer - Gray" data-id="487766" data-price="599.99" data-brand="Dell" data-category="Laptops/Notebooks" data-position="5" href="/product/487766/inspiron-15-5579-156-2-in-1-laptop-computer---gray?ob=1"><img id="imgProduct_4" class="SearchResultProductImage" onerror="ImgError(this);" src="https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0487766_440685.jpg" alt="Dell Inspiron 15 5579 15.6&amp;quot; 2-in-1 Laptop Computer - Gray"></a>
+
+                <div class="quick"><div id="button_quickview487766"><a class="quickView" href="/quickView/487766/inspiron-15-5579-156-2-in-1-laptop-computer---gray?ob=1" rel="nofollow" target="_self"><img src="https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/btn_QuickView.jpg" alt="Open Quick View for Inspiron 15 5579 15.6&quot; 2-in-1 Laptop Computer - Gray"></a></div></div>
+           </div>
+
+
+            <div class="result_right">
+			    <div class="details">
+
+
+                    <div class="detail_wrapper">
+                        <div class="highlight clear"></div>
+                        <div class="pDescription compressedNormal3">
+                       
+                            <div class="normal">
+			                    <h2>
+                                    <a id="hypProductH2_4" data-name="Inspiron 15 5579 15.6&amp;quot; 2-in-1 Laptop Computer - Gray" data-id="487766" data-price="599.99" data-brand="Dell" data-category="Laptops/Notebooks" data-position="5" class="ProductLink_487766" href="/product/487766/inspiron-15-5579-156-2-in-1-laptop-computer---gray?ob=1">Dell Inspiron 15 5579 15.6&quot; 2-in-1 Laptop Computer - Gray;  Intel Core i5-8250U Processor 1.6GHz;  Microsoft Windows 10 Home;  8GB DDR4-2400 RAM;  256GB Solid State Drive</a>
+                                </h2>
+                            </div>
+                            
+                                
+                            
+
+                        </div>
+                        <div class="ratingstars">
+<img class="imgReviews" height="15" src="/assets/images/rating/4.gif" alt="4 stars">
+<div>4 / 5 <span> (4 reviews)</span></div>
+</div>
+                        <p class="sku">SKU: 440685</p>
+
+                        
+						 
+                                <ul class="features compressedFeatures3">
+                                <li class="spec_1 primary"> Intel Core i5-8250U Processor 1.6GHz</li><li class="spec_2 primary"> Microsoft Windows 10 Home</li><li class="spec_3 primary"> 8GB DDR4-2400 RAM</li><li class="spec_4 extra"> 256GB Solid State Drive</li><li class="spec_5 extra"> Intel UHD Graphics 620</li><li class="spec_6 extra"> 3-in-1 Card Reader</li><li class="spec_7 extra"> 802.11ac Wireless+Bluetooth 4.1</li><li class="spec_8 extra"> 15.6&quot; Full HD IPS Truelife LED-backlit Touch Display with Wide Viewing Angles</li>
+                            </ul>
+                            <ul class="featuresTrunc">
+                                <li class="spec_1 primary"> Intel Core i5-8250U Processor 1.6GHz</li><li class="spec_2 primary"> Microsoft Windows 10 Home</li><li class="spec_3 primary"> 8GB DDR4-2400 RAM</li>
+                            </ul>
+                        
+                    
+                        <div class="stock">
+                            <strong>1 <span>open box</span></strong>
+                            <p class="availability"></p>
+				            <p class="availabilityTrunc"></p>
+                        </div>
+                    </div>
+
+
+                    <div class="price_wrapper">
+				        <div class="price">
+                            <span itemprop="price"><span class="mini">New </span><sup class="upperOBNew">$</sup><span class="ObStrike">599.99</span></span>
+
+                            <div class="price-label compareTo">Open Box From <strong><span class="upperOB">$</span>539.96</strong></div>
+                        </div>
+                    			
+                        <div class="rebate-price"><span class="price"></span></div>
+                                
+				        <div class="clearance">
+                            
+                        </div>
+                
+				        <div class="mapped">
+                            
+                        </div>
+         
+                        
+                    
+                        <div class="nextButton clickable"><a href="/product/487766/inspiron-15-5579-156-2-in-1-laptop-computer---gray?ob=1&amp;rf=Search+Results" target="_top">SELECT OPEN BOX</a></div>
+                                        
+                        <div class="instore">
+                            <p class="limit">In-Store Only</p>
+                        </div>
+                    </div>
+
+
+
+			    </div>
+                           
+            </div>
+        
+        </li><li class="product_wrapper">
+           
+            <div class="result_left">
+                <div class="checkbox">
+                   <form action="#" method="get" class="compareCheckbox" name="Compare Checkbox">
+                     <label for="productIDcheck0503608" class="hide-text">Compare Item XPS 13 9370 13.3&quot; Laptop Computer - Silver&gt;</label><input title="Compare SKU# 712372" type="checkbox" class="checkbox productID" id="productIDcheck0503608" name="CompareSKu712372" value="712372:0503608" onclick="set_compare_items(this.form, &apos;712372:0503608&apos;,&apos;XPS 13 9370 13.3 Laptop Computer - Silver&apos;)" onkeypress="set_compare_items(this.form, &apos;712372:0503608&apos;,&apos;XPS 13 9370 13.3 Laptop Computer - Silver&apos;)"><div class="inline-compare-text" id="text_productIDcheck0503608"></div>
+<div class="inline-compare-button" id="button_productIDcheck0503608"><a href="#" class="icons compare">Compare</a></div>                               
+                   </form>
+			    </div>
+            
+            
+
+                <a id="hypProduct_5" class="image" data-name="XPS 13 9370 13.3&amp;quot; Laptop Computer - Silver" data-id="503608" data-price="1199.99" data-brand="Dell" data-category="Laptops/Notebooks" data-position="6" href="/product/503608/xps-13-9370-133-laptop-computer---silver?ob=1"><img id="imgProduct_5" class="SearchResultProductImage" onerror="ImgError(this);" src="https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0503608_712372.jpg" alt="Dell XPS 13 9370 13.3&amp;quot; Laptop Computer - Silver"></a>
+
+                <div class="quick"><div id="button_quickview503608"><a class="quickView" href="/quickView/503608/xps-13-9370-133-laptop-computer---silver?ob=1" rel="nofollow" target="_self"><img src="https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/btn_QuickView.jpg" alt="Open Quick View for XPS 13 9370 13.3&quot; Laptop Computer - Silver"></a></div></div>
+           </div>
+
+
+            <div class="result_right">
+			    <div class="details">
+
+
+                    <div class="detail_wrapper">
+                        <div class="highlight clear"></div>
+                        <div class="pDescription compressedNormal3">
+                       
+                            <div class="normal">
+			                    <h2>
+                                    <a id="hypProductH2_5" data-name="XPS 13 9370 13.3&amp;quot; Laptop Computer - Silver" data-id="503608" data-price="1199.99" data-brand="Dell" data-category="Laptops/Notebooks" data-position="6" class="ProductLink_503608" href="/product/503608/xps-13-9370-133-laptop-computer---silver?ob=1">Dell XPS 13 9370 13.3&quot; Laptop Computer - Silver;  Intel Core i7-8550U Processor 1.80GHz;  Microsoft Windows 10 Home;  8GB LPDDR3-1866 RAM;  256GB Solid State Drive</a>
+                                </h2>
+                            </div>
+                            
+                                
+                            
+
+                        </div>
+                        <div class="ratingstars">
+<img class="imgReviews" height="15" src="/assets/images/rating/4.gif" alt="4 stars">
+<div>4 / 5 <span> (4 reviews)</span></div>
+</div>
+                        <p class="sku">SKU: 712372</p>
+
+                        
+						 
+                                <ul class="features compressedFeatures3">
+                                <li class="spec_1 primary"> Intel Core i7-8550U Processor 1.80GHz</li><li class="spec_2 primary"> Microsoft Windows 10 Home</li><li class="spec_3 primary"> 8GB LPDDR3-1866 RAM</li><li class="spec_4 extra"> 256GB Solid State Drive</li><li class="spec_5 extra"> Intel UHD Graphics 620</li><li class="spec_6 extra"> Micro SD Card Reader</li><li class="spec_7 extra"> Killer 1435 2x2 802.11ac Wireless</li><li class="spec_8 extra"> Bluetooth 4.1</li><li class="spec_9 extra"> 13.3&quot; Full HD InfinityEdge Display</li>
+                            </ul>
+                            <ul class="featuresTrunc">
+                                <li class="spec_1 primary"> Intel Core i7-8550U Processor 1.80GHz</li><li class="spec_2 primary"> Microsoft Windows 10 Home</li><li class="spec_3 primary"> 8GB LPDDR3-1866 RAM</li>
+                            </ul>
+                        
+                    
+                        <div class="stock">
+                            <strong>1 <span>open box</span></strong>
+                            <p class="availability"></p>
+				            <p class="availabilityTrunc"></p>
+                        </div>
+                    </div>
+
+
+                    <div class="price_wrapper">
+				        <div class="price">
+                            <span itemprop="price"><span class="mini">New </span><sup class="upperOBNew">$</sup><span class="ObStrike">1,199.99</span></span>
+
+                            <div class="price-label compareTo">Open Box From <strong><span class="upperOB">$</span>839.96</strong></div>
+                        </div>
+                    			
+                        <div class="rebate-price"><span class="price"></span></div>
+                                
+				        <div class="clearance">
+                            
+                        </div>
+                
+				        <div class="mapped">
+                            
+                        </div>
+         
+                        
+                    
+                        <div class="nextButton clickable"><a href="/product/503608/xps-13-9370-133-laptop-computer---silver?ob=1&amp;rf=Search+Results" target="_top">SELECT OPEN BOX</a></div>
+                                        
+                        <div class="instore">
+                            <p class="limit">In-Store Only</p>
+                        </div>
+                    </div>
+
+
+
+			    </div>
+                           
+            </div>
+        
+        </li><li class="product_wrapper">
+           
+            <div class="result_left">
+                <div class="checkbox">
+                   <form action="#" method="get" class="compareCheckbox" name="Compare Checkbox">
+                     <label for="productIDcheck0502059" class="hide-text">Compare Item Blade Stealth 13.3&quot; Gaming Laptop Computer - Black&gt;</label><input title="Compare SKU# 698779" type="checkbox" class="checkbox productID" id="productIDcheck0502059" name="CompareSKu698779" value="698779:0502059" onclick="set_compare_items(this.form, &apos;698779:0502059&apos;,&apos;Blade Stealth 13.3 Gaming Laptop Computer - Black&apos;)" onkeypress="set_compare_items(this.form, &apos;698779:0502059&apos;,&apos;Blade Stealth 13.3 Gaming Laptop Computer - Black&apos;)"><div class="inline-compare-text" id="text_productIDcheck0502059"></div>
+<div class="inline-compare-button" id="button_productIDcheck0502059"><a href="#" class="icons compare">Compare</a></div>                               
+                   </form>
+			    </div>
+            
+            
+
+                <a id="hypProduct_6" class="image" data-name="Blade Stealth 13.3&amp;quot; Gaming Laptop Computer - Black" data-id="502059" data-price="1199.99" data-brand="Razer" data-category="Laptops/Notebooks" data-position="7" href="/product/502059/blade-stealth-133-gaming-laptop-computer---black?ob=1"><img id="imgProduct_6" class="SearchResultProductImage" onerror="ImgError(this);" src="https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0502059_698779.jpg" alt="Razer Blade Stealth 13.3&amp;quot; Gaming Laptop Computer - Black"></a>
+
+                <div class="quick"><div id="button_quickview502059"><a class="quickView" href="/quickView/502059/blade-stealth-133-gaming-laptop-computer---black?ob=1" rel="nofollow" target="_self"><img src="https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/btn_QuickView.jpg" alt="Open Quick View for Blade Stealth 13.3&quot; Gaming Laptop Computer - Black"></a></div></div>
+           </div>
+
+
+            <div class="result_right">
+			    <div class="details">
+
+
+                    <div class="detail_wrapper">
+                        <div class="highlight clear"></div>
+                        <div class="pDescription compressedNormal3">
+                       
+                            <div class="normal">
+			                    <h2>
+                                    <a id="hypProductH2_6" data-name="Blade Stealth 13.3&amp;quot; Gaming Laptop Computer - Black" data-id="502059" data-price="1199.99" data-brand="Razer" data-category="Laptops/Notebooks" data-position="7" class="ProductLink_502059" href="/product/502059/blade-stealth-133-gaming-laptop-computer---black?ob=1">Razer Blade Stealth 13.3&quot; Gaming Laptop Computer - Black;  Intel Core i7-8550U Processor 1.8GHz;  Microsoft Windows 10 Home;  16GB DDR3L-2133 Onboard RAM;  256GB Solid State Drive</a>
+                                </h2>
+                            </div>
+                            
+                                
+                            
+
+                        </div>
+                        <div class="ratingstars">
+<img class="imgReviews" height="15" src="/assets/images/rating/4.gif" alt="4 stars">
+<div>4 / 5 <span> (3 reviews)</span></div>
+</div>
+                        <p class="sku">SKU: 698779</p>
+
+                        
+						 
+                                <ul class="features compressedFeatures3">
+                                <li class="spec_1 primary"> Intel Core i7-8550U Processor 1.8GHz</li><li class="spec_2 primary"> Microsoft Windows 10 Home</li><li class="spec_3 primary"> 16GB DDR3L-2133 Onboard RAM</li><li class="spec_4 extra"> 256GB Solid State Drive</li><li class="spec_5 extra"> Intel UHD Graphics 620</li><li class="spec_6 extra"> Killer Wireless-AC 1535+Bluetooth 4.1</li><li class="spec_7 extra"> 13.3&quot; QHD+ Display</li>
+                            </ul>
+                            <ul class="featuresTrunc">
+                                <li class="spec_1 primary"> Intel Core i7-8550U Processor 1.8GHz</li><li class="spec_2 primary"> Microsoft Windows 10 Home</li><li class="spec_3 primary"> 16GB DDR3L-2133 Onboard RAM</li>
+                            </ul>
+                        
+                    
+                        <div class="stock">
+                            <strong>1 <span>open box</span></strong>
+                            <p class="availability"></p>
+				            <p class="availabilityTrunc"></p>
+                        </div>
+                    </div>
+
+
+                    <div class="price_wrapper">
+				        <div class="price">
+                            <span itemprop="price"><span class="mini">New </span><sup class="upperOBNew">$</sup><span class="ObStrike">1,199.99</span></span>
+
+                            <div class="price-label compareTo">Open Box From <strong><span class="upperOB">$</span>959.96</strong></div>
+                        </div>
+                    			
+                        <div class="rebate-price"><span class="price"></span></div>
+                                
+				        <div class="clearance">
+                            
+                        </div>
+                
+				        <div class="mapped">
+                            
+                        </div>
+         
+                        
+                    
+                        <div class="nextButton clickable"><a href="/product/502059/blade-stealth-133-gaming-laptop-computer---black?ob=1&amp;rf=Search+Results" target="_top">SELECT OPEN BOX</a></div>
+                                        
+                        <div class="instore">
+                            <p class="limit">In-Store Only</p>
+                        </div>
+                    </div>
+
+
+
+			    </div>
+                           
+            </div>
+        
+        </li><li class="product_wrapper">
+           
+            <div class="result_left">
+                <div class="checkbox">
+                   <form action="#" method="get" class="compareCheckbox" name="Compare Checkbox">
+                     <label for="productIDcheck0488487" class="hide-text">Compare Item Surface Book 2 13.5&quot; 2-in-1 Laptop Computer - Silver&gt;</label><input title="Compare SKU# 452888" type="checkbox" class="checkbox productID" id="productIDcheck0488487" name="CompareSKu452888" value="452888:0488487" onclick="set_compare_items(this.form, &apos;452888:0488487&apos;,&apos;Surface Book 2 13.5 2-in-1 Laptop Computer - Silver&apos;)" onkeypress="set_compare_items(this.form, &apos;452888:0488487&apos;,&apos;Surface Book 2 13.5 2-in-1 Laptop Computer - Silver&apos;)"><div class="inline-compare-text" id="text_productIDcheck0488487"></div>
+<div class="inline-compare-button" id="button_productIDcheck0488487"><a href="#" class="icons compare">Compare</a></div>                               
+                   </form>
+			    </div>
+            
+            
+
+                <a id="hypProduct_7" class="image" data-name="Surface Book 2 13.5&amp;quot; 2-in-1 Laptop Computer - Silver" data-id="488487" data-price data-brand="Microsoft" data-category="Laptops/Notebooks" data-position="8" href="/product/488487/surface-book-2-135-2-in-1-laptop-computer---silver?ob=1"><img id="imgProduct_7" class="SearchResultProductImage" onerror="ImgError(this);" src="https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0488487_452888.jpg" alt="Microsoft Surface Book 2 13.5&amp;quot; 2-in-1 Laptop Computer - Silver"></a>
+
+                <div class="quick"><div id="button_quickview488487"><a class="quickView" href="/quickView/488487/surface-book-2-135-2-in-1-laptop-computer---silver?ob=1" rel="nofollow" target="_self"><img src="https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/btn_QuickView.jpg" alt="Open Quick View for Surface Book 2 13.5&quot; 2-in-1 Laptop Computer - Silver"></a></div></div>
+           </div>
+
+
+            <div class="result_right">
+			    <div class="details">
+
+
+                    <div class="detail_wrapper">
+                        <div class="highlight clear">Buy eligible GeForce GTX video cards or systems, get the Fortnite Bundle FREE!</div>
+                        <div class="pDescription compressedNormal3">
+                       
+                            <div class="normal">
+			                    <h2>
+                                    <a id="hypProductH2_7" data-name="Surface Book 2 13.5&amp;quot; 2-in-1 Laptop Computer - Silver" data-id="488487" data-price data-brand="Microsoft" data-category="Laptops/Notebooks" data-position="8" class="ProductLink_488487" href="/product/488487/surface-book-2-135-2-in-1-laptop-computer---silver?ob=1">Microsoft Surface Book 2 13.5&quot; 2-in-1 Laptop Computer - Silver;  Intel Core i7-8650U Processor 1.9GHz;  NVIDIA GeForce GTX 1050 2GB GDDR5;  16GB RAM;  512GB Solid State Drive</a>
+                                </h2>
+                            </div>
+                            
+                                
+                            
+
+                        </div>
+                        <div class="ratingstars">
+<img class="imgReviews" height="15" src="/assets/images/rating/5.gif" alt="5 stars">
+<div>5 / 5 <span> (2 reviews)</span></div>
+</div>
+                        <p class="sku">SKU: 452888</p>
+
+                        
+						 
+                                <ul class="features compressedFeatures3">
+                                <li class="spec_1 primary"> Intel Core i7-8650U Processor 1.9GHz</li><li class="spec_2 primary"> NVIDIA GeForce GTX 1050 2GB GDDR5</li><li class="spec_3 primary"> 16GB RAM</li><li class="spec_4 extra"> 512GB Solid State Drive</li><li class="spec_5 extra"> Microsoft Windows 10 Pro</li><li class="spec_6 extra"> SD Card Reader</li><li class="spec_7 extra"> 802.11ac Wireless: Bluetooth 4.1</li><li class="spec_8 extra"> 13.5&quot; PixelSense Display</li>
+                            </ul>
+                            <ul class="featuresTrunc">
+                                
+                            </ul>
+                        
+                    
+                        <div class="stock">
+                            <strong>1 <span>open box</span></strong>
+                            <p class="availability"></p>
+				            <p class="availabilityTrunc"></p>
+                        </div>
+                    </div>
+
+
+                    <div class="price_wrapper">
+				        <div class="price">
+                            <span class="no-price">Add to Cart to see price</span>
+                            
+                        </div>
+                    			
+                        <div class="rebate-price"><span class="price"></span></div>
+                                
+				        <div class="clearance">
+                            
+                        </div>
+                
+				        <div class="mapped">
+                            
+                        </div>
+         
+                        
+                    
+                        <div class="nextButton clickable"><a href="/product/488487/surface-book-2-135-2-in-1-laptop-computer---silver?ob=1&amp;rf=Search+Results" target="_top">SELECT OPEN BOX</a></div>
+                                        
+                        <div class="instore">
+                            <p class="limit">In-Store Only</p>
+                        </div>
+                    </div>
+
+
+
+			    </div>
+                           
+            </div>
+        
+        </li><li class="product_wrapper">
+           
+            <div class="result_left">
+                <div class="checkbox">
+                   <form action="#" method="get" class="compareCheckbox" name="Compare Checkbox">
+                     <label for="productIDcheck0513832" class="hide-text">Compare Item Latitude 5590 15.6&quot; Laptop Computer - Black&gt;</label><input title="Compare SKU# 845180" type="checkbox" class="checkbox productID" id="productIDcheck0513832" name="CompareSKu845180" value="845180:0513832" onclick="set_compare_items(this.form, &apos;845180:0513832&apos;,&apos;Latitude 5590 15.6 Laptop Computer - Black&apos;)" onkeypress="set_compare_items(this.form, &apos;845180:0513832&apos;,&apos;Latitude 5590 15.6 Laptop Computer - Black&apos;)"><div class="inline-compare-text" id="text_productIDcheck0513832"></div>
+<div class="inline-compare-button" id="button_productIDcheck0513832"><a href="#" class="icons compare">Compare</a></div>                               
+                   </form>
+			    </div>
+            
+            
+
+                <a id="hypProduct_8" class="image" data-name="Latitude 5590 15.6&amp;quot; Laptop Computer - Black" data-id="513832" data-price="1249.99" data-brand="Dell" data-category="Laptops/Notebooks" data-position="9" href="/product/513832/latitude-5590-156-laptop-computer---black?ob=1"><img id="imgProduct_8" class="SearchResultProductImage" onerror="ImgError(this);" src="https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0513832_845180.jpg" alt="Dell Latitude 5590 15.6&amp;quot; Laptop Computer - Black"></a>
+
+                <div class="quick"><div id="button_quickview513832"><a class="quickView" href="/quickView/513832/latitude-5590-156-laptop-computer---black?ob=1" rel="nofollow" target="_self"><img src="https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/btn_QuickView.jpg" alt="Open Quick View for Latitude 5590 15.6&quot; Laptop Computer - Black"></a></div></div>
+           </div>
+
+
+            <div class="result_right">
+			    <div class="details">
+
+
+                    <div class="detail_wrapper">
+                        <div class="highlight clear"></div>
+                        <div class="pDescription compressedNormal3">
+                       
+                            <div class="normal">
+			                    <h2>
+                                    <a id="hypProductH2_8" data-name="Latitude 5590 15.6&amp;quot; Laptop Computer - Black" data-id="513832" data-price="1249.99" data-brand="Dell" data-category="Laptops/Notebooks" data-position="9" class="ProductLink_513832" href="/product/513832/latitude-5590-156-laptop-computer---black?ob=1">Dell Latitude 5590 15.6&quot; Laptop Computer - Black;  Intel Core i7-8650U Processor 1.9GHz;  8GB DDR4 RAM;  256GB Solid State Drive;  Intel UHD Graphics 620</a>
+                                </h2>
+                            </div>
+                            
+                                
+                            
+
+                        </div>
+                        <div class="ratingstars">
+<div><span>0 Reviews</span></div></div>
+                        <p class="sku">SKU: 845180</p>
+
+                        
+						 
+                                <ul class="features compressedFeatures3">
+                                <li class="spec_1 primary"> Intel Core i7-8650U Processor 1.9GHz</li><li class="spec_2 primary"> 8GB DDR4 RAM</li><li class="spec_3 primary"> 256GB Solid State Drive</li><li class="spec_4 extra"> Intel UHD Graphics 620</li><li class="spec_5 extra"> Microsoft Windows 10 Pro</li><li class="spec_6 extra"> SD 4.0 Memory Card Reader</li><li class="spec_7 extra"> 10/100/1000 Network</li><li class="spec_8 extra"> 802.11ac Wireless</li><li class="spec_9 extra"> Bluetooth 4.1</li><li class="spec_10 extra"> 15.6&quot; Full HD Display</li>
+                            </ul>
+                            <ul class="featuresTrunc">
+                                <li class="spec_1 primary"> Intel Core i7-8650U Processor 1.9GHz</li><li class="spec_2 primary"> 8GB DDR4 RAM</li><li class="spec_3 primary"> 256GB Solid State Drive</li>
+                            </ul>
+                        
+                    
+                        <div class="stock">
+                            <strong>1 <span>open box</span></strong>
+                            <p class="availability"></p>
+				            <p class="availabilityTrunc"></p>
+                        </div>
+                    </div>
+
+
+                    <div class="price_wrapper">
+				        <div class="price">
+                            <span itemprop="price"><span class="mini">New </span><sup class="upperOBNew">$</sup><span class="ObStrike">1,249.99</span></span>
+
+                            <div class="price-label compareTo">Open Box From <strong><span class="upperOB">$</span>874.96</strong></div>
+                        </div>
+                    			
+                        <div class="rebate-price"><span class="price"></span></div>
+                                
+				        <div class="clearance">
+                            
+                        </div>
+                
+				        <div class="mapped">
+                            
+                        </div>
+         
+                        
+                    
+                        <div class="nextButton clickable"><a href="/product/513832/latitude-5590-156-laptop-computer---black?ob=1&amp;rf=Search+Results" target="_top">SELECT OPEN BOX</a></div>
+                                        
+                        <div class="instore">
+                            <p class="limit"></p>
+                        </div>
+                    </div>
+
+
+
+			    </div>
+                           
+            </div>
+        
+        </li><li class="product_wrapper">
+           
+            <div class="result_left">
+                <div class="checkbox">
+                   <form action="#" method="get" class="compareCheckbox" name="Compare Checkbox">
+                     <label for="productIDcheck0513016" class="hide-text">Compare Item ThinkPad T480 14&quot; Laptop Computer - Black&gt;</label><input title="Compare SKU# 839225" type="checkbox" class="checkbox productID" id="productIDcheck0513016" name="CompareSKu839225" value="839225:0513016" onclick="set_compare_items(this.form, &apos;839225:0513016&apos;,&apos;ThinkPad T480 14 Laptop Computer - Black&apos;)" onkeypress="set_compare_items(this.form, &apos;839225:0513016&apos;,&apos;ThinkPad T480 14 Laptop Computer - Black&apos;)"><div class="inline-compare-text" id="text_productIDcheck0513016"></div>
+<div class="inline-compare-button" id="button_productIDcheck0513016"><a href="#" class="icons compare">Compare</a></div>                               
+                   </form>
+			    </div>
+            
+            
+
+                <a id="hypProduct_9" class="image" data-name="ThinkPad T480 14&amp;quot; Laptop Computer - Black" data-id="513016" data-price="699.99" data-brand="Lenovo" data-category="Laptops/Notebooks" data-position="10" href="/product/513016/thinkpad-t480-14-laptop-computer---black?ob=1"><img id="imgProduct_9" class="SearchResultProductImage" onerror="ImgError(this);" src="https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0513016_839225.jpg" alt="Lenovo ThinkPad T480 14&amp;quot; Laptop Computer - Black"></a>
+
+                <div class="quick"><div id="button_quickview513016"><a class="quickView" href="/quickView/513016/thinkpad-t480-14-laptop-computer---black?ob=1" rel="nofollow" target="_self"><img src="https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/btn_QuickView.jpg" alt="Open Quick View for ThinkPad T480 14&quot; Laptop Computer - Black"></a></div></div>
+           </div>
+
+
+            <div class="result_right">
+			    <div class="details">
+
+
+                    <div class="detail_wrapper">
+                        <div class="highlight clear"></div>
+                        <div class="pDescription compressedNormal3">
+                       
+                            <div class="normal">
+			                    <h2>
+                                    <a id="hypProductH2_9" data-name="ThinkPad T480 14&amp;quot; Laptop Computer - Black" data-id="513016" data-price="699.99" data-brand="Lenovo" data-category="Laptops/Notebooks" data-position="10" class="ProductLink_513016" href="/product/513016/thinkpad-t480-14-laptop-computer---black?ob=1">Lenovo ThinkPad T480 14&quot; Laptop Computer - Black;  Intel Core i5-8250U Processor 1.6GHz;  4GB DDR4-2400 RAM;  500GB Hard Drive;  Intel UHD Graphics 620</a>
+                                </h2>
+                            </div>
+                            
+                                
+                            
+
+                        </div>
+                        <div class="ratingstars">
+<div><span>0 Reviews</span></div></div>
+                        <p class="sku">SKU: 839225</p>
+
+                        
+						 
+                                <ul class="features compressedFeatures3">
+                                <li class="spec_1 primary"> Intel Core i5-8250U Processor 1.6GHz</li><li class="spec_2 primary"> 4GB DDR4-2400 RAM</li><li class="spec_3 primary"> 500GB Hard Drive</li><li class="spec_4 extra"> Intel UHD Graphics 620</li><li class="spec_5 extra"> Microsoft Windows 10 Pro</li><li class="spec_6 extra"> 4-in-1 Card Reader</li><li class="spec_7 extra"> 10/100/1000 Network</li><li class="spec_8 extra"> 802.11ac Wireless</li><li class="spec_9 extra"> Bluetooth 4.1</li><li class="spec_10 extra"> 14&quot; HD LED-backlit Anti-Glare Display</li>
+                            </ul>
+                            <ul class="featuresTrunc">
+                                <li class="spec_1 primary"> Intel Core i5-8250U Processor 1.6GHz</li><li class="spec_2 primary"> 4GB DDR4-2400 RAM</li><li class="spec_3 primary"> 500GB Hard Drive</li>
+                            </ul>
+                        
+                    
+                        <div class="stock">
+                            <strong>1 <span>open box</span></strong>
+                            <p class="availability"></p>
+				            <p class="availabilityTrunc"></p>
+                        </div>
+                    </div>
+
+
+                    <div class="price_wrapper">
+				        <div class="price">
+                            <span itemprop="price"><span class="mini">New </span><sup class="upperOBNew">$</sup><span class="ObStrike">699.99</span></span>
+
+                            <div class="price-label compareTo">Open Box From <strong><span class="upperOB">$</span>629.96</strong></div>
+                        </div>
+                    			
+                        <div class="rebate-price"><span class="price"></span></div>
+                                
+				        <div class="clearance">
+                            
+                        </div>
+                
+				        <div class="mapped">
+                            
+                        </div>
+         
+                        
+                    
+                        <div class="nextButton clickable"><a href="/product/513016/thinkpad-t480-14-laptop-computer---black?ob=1&amp;rf=Search+Results" target="_top">SELECT OPEN BOX</a></div>
+                                        
+                        <div class="instore">
+                            <p class="limit">In-Store Only</p>
+                        </div>
+                    </div>
+
+
+
+			    </div>
+                           
+            </div>
+        
+        </li><li class="product_wrapper">
+           
+            <div class="result_left">
+                <div class="checkbox">
+                   <form action="#" method="get" class="compareCheckbox" name="Compare Checkbox">
+                     <label for="productIDcheck0506382" class="hide-text">Compare Item VivoBook K570UD-DS74 15.6&quot; Gaming Laptop Computer - Black&gt;</label><input title="Compare SKU# 766279" type="checkbox" class="checkbox productID" id="productIDcheck0506382" name="CompareSKu766279" value="766279:0506382" onclick="set_compare_items(this.form, &apos;766279:0506382&apos;,&apos;VivoBook K570UD-DS74 15.6 Gaming Laptop Computer - Black&apos;)" onkeypress="set_compare_items(this.form, &apos;766279:0506382&apos;,&apos;VivoBook K570UD-DS74 15.6 Gaming Laptop Computer - Black&apos;)"><div class="inline-compare-text" id="text_productIDcheck0506382"></div>
+<div class="inline-compare-button" id="button_productIDcheck0506382"><a href="#" class="icons compare">Compare</a></div>                               
+                   </form>
+			    </div>
+            
+            
+
+                <a id="hypProduct_10" class="image" data-name="VivoBook K570UD-DS74 15.6&amp;quot; Gaming Laptop Computer - Black" data-id="506382" data-price="899.99" data-brand="ASUS" data-category="Laptops/Notebooks" data-position="11" href="/product/506382/vivobook-k570ud-ds74-156-gaming-laptop-computer---black?ob=1"><img id="imgProduct_10" class="SearchResultProductImage" onerror="ImgError(this);" src="https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0506382_766279.jpg" alt="ASUS VivoBook K570UD-DS74 15.6&amp;quot; Gaming Laptop Computer - Black"></a>
+
+                <div class="quick"><div id="button_quickview506382"><a class="quickView" href="/quickView/506382/vivobook-k570ud-ds74-156-gaming-laptop-computer---black?ob=1" rel="nofollow" target="_self"><img src="https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/btn_QuickView.jpg" alt="Open Quick View for VivoBook K570UD-DS74 15.6&quot; Gaming Laptop Computer - Black"></a></div></div>
+           </div>
+
+
+            <div class="result_right">
+			    <div class="details">
+
+
+                    <div class="detail_wrapper">
+                        <div class="highlight clear">Buy eligible GeForce GTX video cards or systems, get the Fortnite Bundle FREE!</div>
+                        <div class="pDescription compressedNormal3">
+                       
+                            <div class="normal">
+			                    <h2>
+                                    <a id="hypProductH2_10" data-name="VivoBook K570UD-DS74 15.6&amp;quot; Gaming Laptop Computer - Black" data-id="506382" data-price="899.99" data-brand="ASUS" data-category="Laptops/Notebooks" data-position="11" class="ProductLink_506382" href="/product/506382/vivobook-k570ud-ds74-156-gaming-laptop-computer---black?ob=1">ASUS VivoBook K570UD-DS74 15.6&quot; Gaming Laptop Computer - Black;  Intel Core i7-8550U Processor 1.8GHz;  NVIDIA GeForce GTX 1050 2GB GDDR5;  8GB DDR4 RAM;  1TB HDD+256GB SSD</a>
+                                </h2>
+                            </div>
+                            
+                                
+                            
+
+                        </div>
+                        <div class="ratingstars">
+<img class="imgReviews" height="15" src="/assets/images/rating/5.gif" alt="5 stars">
+<div>5 / 5 <span> (5 reviews)</span></div>
+</div>
+                        <p class="sku">SKU: 766279</p>
+
+                        
+						 
+                                <ul class="features compressedFeatures3">
+                                <li class="spec_1 primary"> Intel Core i7-8550U Processor 1.8GHz</li><li class="spec_2 primary"> NVIDIA GeForce GTX 1050 2GB GDDR5</li><li class="spec_3 primary"> 8GB DDR4 RAM</li><li class="spec_4 extra"> 1TB HDD+256GB SSD</li><li class="spec_5 extra"> Microsoft Windows 10</li><li class="spec_6 extra"> Media Card Reader</li><li class="spec_7 extra"> 10/100/1000 Network</li><li class="spec_8 extra"> 2x2 802.11ac Wireless+Bluetooth 4.0</li><li class="spec_9 extra"> 15.6&quot; Full HD Display</li>
+                            </ul>
+                            <ul class="featuresTrunc">
+                                
+                            </ul>
+                        
+                    
+                        <div class="stock">
+                            <strong>1 <span>open box</span></strong>
+                            <p class="availability"></p>
+				            <p class="availabilityTrunc"></p>
+                        </div>
+                    </div>
+
+
+                    <div class="price_wrapper">
+				        <div class="price">
+                            <span itemprop="price"><span class="mini">New </span><sup class="upperOBNew">$</sup><span class="ObStrike">899.99</span></span>
+
+                            <div class="price-label compareTo">Open Box From <strong><span class="upperOB">$</span>629.96</strong></div>
+                        </div>
+                    			
+                        <div class="rebate-price"><span class="price"></span></div>
+                                
+				        <div class="clearance">
+                            
+                        </div>
+                
+				        <div class="mapped">
+                            
+                        </div>
+         
+                        
+                    
+                        <div class="nextButton clickable"><a href="/product/506382/vivobook-k570ud-ds74-156-gaming-laptop-computer---black?ob=1&amp;rf=Search+Results" target="_top">SELECT OPEN BOX</a></div>
+                                        
+                        <div class="instore">
+                            <p class="limit">In-Store Only</p>
+                        </div>
+                    </div>
+
+
+
+			    </div>
+                           
+            </div>
+        
+        </li><li class="product_wrapper">
+           
+            <div class="result_left">
+                <div class="checkbox">
+                   <form action="#" method="get" class="compareCheckbox" name="Compare Checkbox">
+                     <label for="productIDcheck0513831" class="hide-text">Compare Item Latitude 5490 14&quot; Laptop Computer - Black&gt;</label><input title="Compare SKU# 845172" type="checkbox" class="checkbox productID" id="productIDcheck0513831" name="CompareSKu845172" value="845172:0513831" onclick="set_compare_items(this.form, &apos;845172:0513831&apos;,&apos;Latitude 5490 14 Laptop Computer - Black&apos;)" onkeypress="set_compare_items(this.form, &apos;845172:0513831&apos;,&apos;Latitude 5490 14 Laptop Computer - Black&apos;)"><div class="inline-compare-text" id="text_productIDcheck0513831"></div>
+<div class="inline-compare-button" id="button_productIDcheck0513831"><a href="#" class="icons compare">Compare</a></div>                               
+                   </form>
+			    </div>
+            
+            
+
+                <a id="hypProduct_11" class="image" data-name="Latitude 5490 14&amp;quot; Laptop Computer - Black" data-id="513831" data-price="1499.99" data-brand="Dell" data-category="Laptops/Notebooks" data-position="12" href="/product/513831/latitude-5490-14-laptop-computer---black?ob=1"><img id="imgProduct_11" class="SearchResultProductImage" onerror="ImgError(this);" src="https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0513831_845172.jpg" alt="Dell Latitude 5490 14&amp;quot; Laptop Computer - Black"></a>
+
+                <div class="quick"><div id="button_quickview513831"><a class="quickView" href="/quickView/513831/latitude-5490-14-laptop-computer---black?ob=1" rel="nofollow" target="_self"><img src="https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/btn_QuickView.jpg" alt="Open Quick View for Latitude 5490 14&quot; Laptop Computer - Black"></a></div></div>
+           </div>
+
+
+            <div class="result_right">
+			    <div class="details">
+
+
+                    <div class="detail_wrapper">
+                        <div class="highlight clear"></div>
+                        <div class="pDescription compressedNormal3">
+                       
+                            <div class="normal">
+			                    <h2>
+                                    <a id="hypProductH2_11" data-name="Latitude 5490 14&amp;quot; Laptop Computer - Black" data-id="513831" data-price="1499.99" data-brand="Dell" data-category="Laptops/Notebooks" data-position="12" class="ProductLink_513831" href="/product/513831/latitude-5490-14-laptop-computer---black?ob=1">Dell Latitude 5490 14&quot; Laptop Computer - Black;  Intel Core i7-8650U Processor 1.9GHz;  16GB DDR4 RAM;  512GB Solid State Drive;  Intel UHD Graphics 620</a>
+                                </h2>
+                            </div>
+                            
+                                
+                            
+
+                        </div>
+                        <div class="ratingstars">
+<div><span>0 Reviews</span></div></div>
+                        <p class="sku">SKU: 845172</p>
+
+                        
+						 
+                                <ul class="features compressedFeatures3">
+                                <li class="spec_1 primary"> Intel Core i7-8650U Processor 1.9GHz</li><li class="spec_2 primary"> 16GB DDR4 RAM</li><li class="spec_3 primary"> 512GB Solid State Drive</li><li class="spec_4 extra"> Intel UHD Graphics 620</li><li class="spec_5 extra"> Microsoft Windows 10 Pro</li><li class="spec_6 extra"> SD 4.0 Memory Card Reader</li><li class="spec_7 extra"> 10/100/1000 Network</li><li class="spec_8 extra"> 802.11ac Wireless</li><li class="spec_9 extra"> Bluetooth 4.1</li><li class="spec_10 extra"> 14&quot; Full HD Display</li>
+                            </ul>
+                            <ul class="featuresTrunc">
+                                <li class="spec_1 primary"> Intel Core i7-8650U Processor 1.9GHz</li><li class="spec_2 primary"> 16GB DDR4 RAM</li><li class="spec_3 primary"> 512GB Solid State Drive</li>
+                            </ul>
+                        
+                    
+                        <div class="stock">
+                            <strong>1 <span>open box</span></strong>
+                            <p class="availability"></p>
+				            <p class="availabilityTrunc"></p>
+                        </div>
+                    </div>
+
+
+                    <div class="price_wrapper">
+				        <div class="price">
+                            <span itemprop="price"><span class="mini">New </span><sup class="upperOBNew">$</sup><span class="ObStrike">1,499.99</span></span>
+
+                            <div class="price-label compareTo">Open Box From <strong><span class="upperOB">$</span>1,049.96</strong></div>
+                        </div>
+                    			
+                        <div class="rebate-price"><span class="price"></span></div>
+                                
+				        <div class="clearance">
+                            
+                        </div>
+                
+				        <div class="mapped">
+                            
+                        </div>
+         
+                        
+                    
+                        <div class="nextButton clickable"><a href="/product/513831/latitude-5490-14-laptop-computer---black?ob=1&amp;rf=Search+Results" target="_top">SELECT OPEN BOX</a></div>
+                                        
+                        <div class="instore">
+                            <p class="limit"></p>
+                        </div>
+                    </div>
+
+
+
+			    </div>
+                           
+            </div>
+        
+        </li><li class="product_wrapper">
+           
+            <div class="result_left">
+                <div class="checkbox">
+                   <form action="#" method="get" class="compareCheckbox" name="Compare Checkbox">
+                     <label for="productIDcheck0504203" class="hide-text">Compare Item Notebook 9 Pen 13.3&quot; Laptop Computer - Silver&gt;</label><input title="Compare SKU# 716415" type="checkbox" class="checkbox productID" id="productIDcheck0504203" name="CompareSKu716415" value="716415:0504203" onclick="set_compare_items(this.form, &apos;716415:0504203&apos;,&apos;Notebook 9 Pen 13.3 Laptop Computer - Silver&apos;)" onkeypress="set_compare_items(this.form, &apos;716415:0504203&apos;,&apos;Notebook 9 Pen 13.3 Laptop Computer - Silver&apos;)"><div class="inline-compare-text" id="text_productIDcheck0504203"></div>
+<div class="inline-compare-button" id="button_productIDcheck0504203"><a href="#" class="icons compare">Compare</a></div>                               
+                   </form>
+			    </div>
+            
+            
+
+                <a id="hypProduct_12" class="image" data-name="Notebook 9 Pen 13.3&amp;quot; Laptop Computer - Silver" data-id="504203" data-price data-brand="Samsung" data-category="Laptops/Notebooks" data-position="13" href="/product/504203/notebook-9-pen-133-laptop-computer---silver?ob=1"><img id="imgProduct_12" class="SearchResultProductImage" onerror="ImgError(this);" src="https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0504203_716415.jpg" alt="Samsung Notebook 9 Pen 13.3&amp;quot; Laptop Computer - Silver"></a>
+
+                <div class="quick"><div id="button_quickview504203"><a class="quickView" href="/quickView/504203/notebook-9-pen-133-laptop-computer---silver?ob=1" rel="nofollow" target="_self"><img src="https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/btn_QuickView.jpg" alt="Open Quick View for Notebook 9 Pen 13.3&quot; Laptop Computer - Silver"></a></div></div>
+           </div>
+
+
+            <div class="result_right">
+			    <div class="details">
+
+
+                    <div class="detail_wrapper">
+                        <div class="highlight clear"></div>
+                        <div class="pDescription compressedNormal3">
+                       
+                            <div class="normal">
+			                    <h2>
+                                    <a id="hypProductH2_12" data-name="Notebook 9 Pen 13.3&amp;quot; Laptop Computer - Silver" data-id="504203" data-price data-brand="Samsung" data-category="Laptops/Notebooks" data-position="13" class="ProductLink_504203" href="/product/504203/notebook-9-pen-133-laptop-computer---silver?ob=1">Samsung Notebook 9 Pen 13.3&quot; Laptop Computer - Silver;  Intel Core i7 Processor 1.8GHz;  Microsoft Windows 10 Home;  8GB DDR4 Onboard RAM;  Intel UHD Graphics 620</a>
+                                </h2>
+                            </div>
+                            
+                                
+                            
+
+                        </div>
+                        <div class="ratingstars">
+<img class="imgReviews" height="15" src="/assets/images/rating/4.gif" alt="4 stars">
+<div>4 / 5 <span> (6 reviews)</span></div>
+</div>
+                        <p class="sku">SKU: 716415</p>
+
+                        
+						 
+                                <ul class="features compressedFeatures3">
+                                <li class="spec_1 primary"> Intel Core i7 Processor 1.8GHz</li><li class="spec_2 primary"> Microsoft Windows 10 Home</li><li class="spec_3 primary"> 8GB DDR4 Onboard RAM</li><li class="spec_4 extra"> Intel UHD Graphics 620</li><li class="spec_5 extra"> 3-in-1 Card Slot</li><li class="spec_6 extra"> 2x2 Intel Dual-Band Wireless-AC 8265</li><li class="spec_7 extra"> Bluetooth 4.1</li><li class="spec_8 extra"> 13.3&quot; Full HD LED-backlit Touchscreen Display</li>
+                            </ul>
+                            <ul class="featuresTrunc">
+                                <li class="spec_1 primary"> Intel Core i7 Processor 1.8GHz</li><li class="spec_2 primary"> Microsoft Windows 10 Home</li><li class="spec_3 primary"> 8GB DDR4 Onboard RAM</li>
+                            </ul>
+                        
+                    
+                        <div class="stock">
+                            <strong>1 <span>open box</span></strong>
+                            <p class="availability"></p>
+				            <p class="availabilityTrunc"></p>
+                        </div>
+                    </div>
+
+
+                    <div class="price_wrapper">
+				        <div class="price">
+                            <span class="no-price"><a href="/store/sms.aspx?productId=504203" class="sms-modal">Price Request</a></span>
+                            
+                        </div>
+                    			
+                        <div class="rebate-price"><span class="price"></span></div>
+                                
+				        <div class="clearance">
+                            
+                        </div>
+                
+				        <div class="mapped">
+                            
+                        </div>
+         
+                        
+                    
+                        <div class="nextButton clickable"><a href="/product/504203/notebook-9-pen-133-laptop-computer---silver?ob=1&amp;rf=Search+Results" target="_top">SELECT OPEN BOX</a></div>
+                                        
+                        <div class="instore">
+                            <p class="limit">In-Store Only</p>
+                        </div>
+                    </div>
+
+
+
+			    </div>
+                           
+            </div>
+        
+        </li>
